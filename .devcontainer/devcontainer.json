@@ -1,4 +1,8 @@
 {
-  "name": "vanilla-alpine",
-  "image": "alpine:latest"
+  "name": "alpine-glibc",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  }
 }
+
