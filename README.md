@@ -1,4 +1,4 @@
 # devcontainer-test
 
-This repository uses an Alpine-based devcontainer with glibc installed.
+This repository uses an Ubuntu-based devcontainer with glibc and other required packages installed.
 
