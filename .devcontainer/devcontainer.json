@@ -1,5 +1,5 @@
 {
-  "name": "alpine-glibc",
+  "name": "ubuntu-devcontainer",
   "build": {
     "dockerfile": "Dockerfile",
     "context": ".."
